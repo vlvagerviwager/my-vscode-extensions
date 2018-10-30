@@ -6,7 +6,7 @@ VSCode extensions I like.
 
 aeschli.vscode-css-formatter-1.0.1  
 formulahendry.auto-rename-tag-0.0.15  
-christian-kohler.npm-intellisense-1.3.0	 
+christian-kohler.npm-intellisense-1.3.0  
 joshpeng.sublime-babel-vscode-0.2.10  
 cssho.vscode-svgviewer-1.4.7  
 mquandalle.graphql-0.1.2  

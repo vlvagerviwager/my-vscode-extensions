@@ -16,4 +16,19 @@ formulahendry.auto-close-tag-0.5.6
 
 ## React - work
 
-TODO
+aeschli.vscode-css-formatter-1.0.1  
+eamodio.gitlens-8.5.6  
+kokororin.vscode-phpfmt-1.0.30  
+naumovs.color-highlight-2.3.0  
+blanu.vscode-styled-jsx-1.0.0  
+esbenp.prettier-vscode-1.6.1  
+kumar-harsh.graphql-for-vscode-1.12.1  
+shinnn.stylelint-0.43.0  
+coenraads.bracket-pair-colorizer-1.0.60  
+formulahendry.auto-close-tag-0.5.6  
+mgmcdermott.vscode-language-babel-0.0.20  
+shinnn.stylelint-0.44.0  
+dbaeumer.vscode-eslint-1.6.0  
+formulahendry.auto-rename-tag-0.0.15  
+mgmcdermott.vscode-language-babel-0.0.21  
+sonarsource.sonarlint-vscode-1.5.0  

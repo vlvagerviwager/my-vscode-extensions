@@ -9,7 +9,7 @@ christian-kohler.npm-intellisense-1.3.0
 cssho.vscode-svgviewer-1.4.7  
 esbenp.prettier-vscode-1.6.1  
 formulahendry.auto-close-tag-0.5.6  
-formulahendry.auto-rename-tag-0.0.15
+formulahendry.auto-rename-tag-0.0.15  
 joshpeng.sublime-babel-vscode-0.2.10  
 kisstkondoros.vscode-codemetrics-1.17.3  
 mquandalle.graphql-0.1.2  

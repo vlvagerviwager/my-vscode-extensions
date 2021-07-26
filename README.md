@@ -14,6 +14,7 @@ joshpeng.sublime-babel-vscode-0.2.10
 kisstkondoros.vscode-codemetrics-1.17.3  
 mquandalle.graphql-0.1.2  
 naumovs.color-highlight-2.3.0  
+oderwat.indent-rainbow  
 
 ## React - work
 
